@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working as an Intern at IIT - Madras , RISE LAB. I am working in compliance testing 
+I'm currently working as a Project Associate at IIT - Madras , RISE LAB. Contributing to development of RISCV ISA . 
 
 
 # 💻 Tech Stack:
